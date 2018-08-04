@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EGG Check</string>
+    <string name="search_box">请输入关键字</string>
+    <string name="line_explain">最近变动股票</string>
+    <string name="watch_stop">监控已停止</string>
+    <string name="watch_start">监控中</string>
+    <string name="title_name">股票简介</string>
+    <string name="title_change">涨跌幅</string>
+    <string name="title_price">当前价</string>
+    <string name="title_advise">操作建议</string>
+</resources>
